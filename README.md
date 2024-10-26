@@ -74,6 +74,6 @@
 ### Online Resources to Study in Depth:
 ### ---> [Introduction to Descriptive Statistics - Towards Data Science](https://towardsdatascience.com/intro-to-descriptive-statistics-and-probability-for-data-science-8effec826488)
 ### ---> [A Practical Guide to Hypothesis Testing - Towards Data Science](https://towardsdatascience.com/understanding-hypothesis-testing-65f9b3e9ab1f)
-### ---> [Linear Regression Explained - Towards Data Science](#)
+### ---> [Linear Regression Explained - Towards Data Science](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
 ### ---> [Common Probability Distributions - Towards Data Science](#)
 ### ---> [Bayesian Statistics Explained - Towards Data Science](#)
