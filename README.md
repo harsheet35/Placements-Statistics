@@ -72,7 +72,7 @@
 ### ---> Factorial Designs: Studying the effect of two or more factors in an experiment.
 
 ### Online Resources to Study in Depth:
-### ---> [Introduction to Descriptive Statistics - Towards Data Science](#)
+### ---> [Introduction to Descriptive Statistics - Towards Data Science](https://towardsdatascience.com/intro-to-descriptive-statistics-and-probability-for-data-science-8effec826488)
 ### ---> [A Practical Guide to Hypothesis Testing - Towards Data Science](#)
 ### ---> [Linear Regression Explained - Towards Data Science](#)
 ### ---> [Common Probability Distributions - Towards Data Science](#)
