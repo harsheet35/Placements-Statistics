@@ -1,5 +1,4 @@
 # Placements-Statistics
-# Key-Statistics-Topics-for-Data-Science-Interviews
 
 ## Descriptive Statistics
 ### ---> Mean, Median, Mode: Measures of central tendency.
