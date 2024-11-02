@@ -1,6 +1,6 @@
 # Placements-Statistics
 
-## Descriptive Statistics
+## $$ [Descriptive Statistics](https://medium.com/@datasciencejourney100_83560/all-about-descriptive-statistics-required-for-data-science-ec7ab058e506)
 ### ---> Mean, Median, Mode: Measures of central tendency.
 ### ---> Variance and Standard Deviation: Measures of dispersion.
 ### ---> Quartiles and Percentiles: Understanding distribution spread.
